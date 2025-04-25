@@ -1,3 +1,9 @@
+# My Portfolio Website
+
+This is my personal website built using the Dimension template from HTML5 UP. I customized it to showcase my work, projects, and background.
+
+---
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
