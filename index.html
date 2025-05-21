@@ -95,12 +95,14 @@
 							style="width: 45%; max-width: 350px; border-radius: 8px;" />
 					</div>
 					<p style="margin-top: 1.5rem;">
-						This tool uses OCR (Optical Character Recognition) to extract text from images of handwritten
-						notes, then intelligently restructures and formats the content into clean, readable PDFs using
-						AI.
-						Built using Python, Google Cloud Vision for OCR, and OpenAI's language model API, with FPDF for
-						final export. I plan to redevelop the app to make it accessible on mobile devices. Additionally, some
-						fine-tuning is needed.
+    					This tool uses OCR (Optical Character Recognition) to extract text from images of handwritten notes, 
+						then intelligently summarizes and formats the content into clean, readable PDFs using AI. Originally built 
+						using Python, Google Cloud Vision, OpenAI's language model API, and FPDF for export.
+
+    					I have now completed and deployed a <strong>fully functional Android version</strong> 
+						using Kotlin and Jetpack Compose. The app uses the device camera to capture notes, communicates with the 
+						backend via Retrofit, and securely downloads the generated PDF. 
+
 					</p>
 				</section>
 			</article>
